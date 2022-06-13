@@ -19,9 +19,11 @@ As shown on the above, 8 cities in Alameda county have the highest sales tax rat
 As shown on the above, there are 441 cities that have the lowest sales tax rate in 2022, which is 7.25%. 
 ![lowest_sales_tax_2022](Resources/lowest_sales_tax_2022.png)
 
+
 [Tableau Link](https://public.tableau.com/app/profile/ayoung.kim2278/viz/CitiesinCAthathavelowestsalestaxratein2022/LowestSalesTaxRate)
 
 - Cities that have highest rate change from 2020 to 2021
+
 
 ![2020_2021_max_df](Resources/2020_2021_max_df.png)
 
