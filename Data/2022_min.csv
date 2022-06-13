@@ -1,0 +1,442 @@
+year,city,county,rate,state
+2022,Adelaida,San Luis Obispo,0.0725,CA
+2022,Adin,Modoc,0.0725,CA
+2022,Al Tahoe,El Dorado,0.0725,CA
+2022,Alleghany,Sierra,0.0725,CA
+2022,Almanor,Plumas,0.0725,CA
+2022,Alta,Placer,0.0725,CA
+2022,Altaville,Calaveras,0.0725,CA
+2022,Alturas,Modoc,0.0725,CA
+2022,Applegate,Placer,0.0725,CA
+2022,Arbuckle,Colusa,0.0725,CA
+2022,Armona,Kings,0.0725,CA
+2022,Arnold,Calaveras,0.0725,CA
+2022,Artois,Glenn,0.0725,CA
+2022,Auburn,Placer,0.0725,CA
+2022,Avenal,Kings,0.0725,CA
+2022,Avery,Calaveras,0.0725,CA
+2022,Avila Beach,San Luis Obispo,0.0725,CA
+2022,Bangor,Butte,0.0725,CA
+2022,Baxter,Placer,0.0725,CA
+2022,Baywood Park,San Luis Obispo,0.0725,CA
+2022,Bear Valley,Alpine,0.0725,CA
+2022,Beckwourth,Plumas,0.0725,CA
+2022,Belden,Plumas,0.0725,CA
+2022,Bella Vista,Shasta,0.0725,CA
+2022,Benton,Mono,0.0725,CA
+2022,Berry Creek,Butte,0.0725,CA
+2022,Bieber,Lassen,0.0725,CA
+2022,Big Bar,Trinity,0.0725,CA
+2022,Big Bend,Shasta,0.0725,CA
+2022,Big Oak Flat,Tuolumne,0.0725,CA
+2022,Biggs,Butte,0.0725,CA
+2022,Bijou,El Dorado,0.0725,CA
+2022,Blairsden,Plumas,0.0725,CA
+2022,Bodfish,Kern,0.0725,CA
+2022,Boron,Kern,0.0725,CA
+2022,Bowman,Placer,0.0725,CA
+2022,Bridgeport,Mono,0.0725,CA
+2022,Brooks,Yolo,0.0725,CA
+2022,Burney,Shasta,0.0725,CA
+2022,Burnt Ranch,Trinity,0.0725,CA
+2022,Burson,Calaveras,0.0725,CA
+2022,Butte City,Glenn,0.0725,CA
+2022,Butte Meadows,Butte,0.0725,CA
+2022,Buttonwillow,Kern,0.0725,CA
+2022,Caliente,Kern,0.0725,CA
+2022,California City,Kern,0.0725,CA
+2022,California Valley,San Luis Obispo,0.0725,CA
+2022,Callahan,Siskiyou,0.0725,CA
+2022,Calpine,Sierra,0.0725,CA
+2022,Camarillo,Ventura,0.0725,CA
+2022,Cambria,San Luis Obispo,0.0725,CA
+2022,Cameron Park,El Dorado,0.0725,CA
+2022,Camino,El Dorado,0.0725,CA
+2022,Camp Connell,Calaveras,0.0725,CA
+2022,Campo Seco,Calaveras,0.0725,CA
+2022,Canby,Modoc,0.0725,CA
+2022,Cantil,Kern,0.0725,CA
+2022,Canyondam,Plumas,0.0725,CA
+2022,Capay,Yolo,0.0725,CA
+2022,Carnelian Bay,Placer,0.0725,CA
+2022,Casitas Springs,Ventura,0.0725,CA
+2022,Cassel,Shasta,0.0725,CA
+2022,Castella,Shasta,0.0725,CA
+2022,Cayucos,San Luis Obispo,0.0725,CA
+2022,Cecilville,Siskiyou,0.0725,CA
+2022,Cedarville,Modoc,0.0725,CA
+2022,Central Valley,Shasta,0.0725,CA
+2022,Chambers Lodge,Placer,0.0725,CA
+2022,Chester,Plumas,0.0725,CA
+2022,Chico,Butte,0.0725,CA
+2022,Chilcoot,Plumas,0.0725,CA
+2022,Chinese Camp,Tuolumne,0.0725,CA
+2022,Cholame,San Luis Obispo,0.0725,CA
+2022,Clarksburg,Yolo,0.0725,CA
+2022,Clear Creek,Siskiyou,0.0725,CA
+2022,Clearlake Oaks,Lake,0.0725,CA
+2022,Clio,Plumas,0.0725,CA
+2022,Clipper Mills,Butte,0.0725,CA
+2022,Cobb,Lake,0.0725,CA
+2022,Cohasset,Butte,0.0725,CA
+2022,Coleville,Mono,0.0725,CA
+2022,Colfax,Placer,0.0725,CA
+2022,College City,Colusa,0.0725,CA
+2022,Coloma,El Dorado,0.0725,CA
+2022,Columbia,Tuolumne,0.0725,CA
+2022,Colusa,Colusa,0.0725,CA
+2022,Cool,El Dorado,0.0725,CA
+2022,Copperopolis,Calaveras,0.0725,CA
+2022,Cottonwood,Shasta,0.0725,CA
+2022,Crescent Mills,Plumas,0.0725,CA
+2022,Creston,San Luis Obispo,0.0725,CA
+2022,Cromberg,Plumas,0.0725,CA
+2022,Crowley Lake,Mono,0.0725,CA
+2022,Dardanelle,Tuolumne,0.0725,CA
+2022,Davis Creek,Modoc,0.0725,CA
+2022,Deleven,Colusa,0.0725,CA
+2022,Denny,Trinity,0.0725,CA
+2022,Di Giorgio,Kern,0.0725,CA
+2022,Diamond Springs,El Dorado,0.0725,CA
+2022,Dorris,Siskiyou,0.0725,CA
+2022,Douglas City,Trinity,0.0725,CA
+2022,Douglas Flat,Calaveras,0.0725,CA
+2022,Downieville,Sierra,0.0725,CA
+2022,Doyle,Lassen,0.0725,CA
+2022,Dunnigan,Yolo,0.0725,CA
+2022,Durham,Butte,0.0725,CA
+2022,Dutch Flat,Placer,0.0725,CA
+2022,Eagleville,Modoc,0.0725,CA
+2022,East Nicolaus,Sutter,0.0725,CA
+2022,Echo Lake,El Dorado,0.0725,CA
+2022,Edgewood,Siskiyou,0.0725,CA
+2022,Edison,Kern,0.0725,CA
+2022,Edwards,Kern,0.0725,CA
+2022,Edwards A.F.B.,Kern,0.0725,CA
+2022,El Dorado,El Dorado,0.0725,CA
+2022,El Dorado Hills,El Dorado,0.0725,CA
+2022,El Macero,Yolo,0.0725,CA
+2022,Elk Creek,Glenn,0.0725,CA
+2022,Emigrant Gap,Placer,0.0725,CA
+2022,Enterprise,Shasta,0.0725,CA
+2022,Esparto,Yolo,0.0725,CA
+2022,Etna,Siskiyou,0.0725,CA
+2022,Fall River Mills,Shasta,0.0725,CA
+2022,Fallen Leaf,El Dorado,0.0725,CA
+2022,Feather Falls,Butte,0.0725,CA
+2022,Fellows,Kern,0.0725,CA
+2022,Fillmore,Ventura,0.0725,CA
+2022,Finley,Lake,0.0725,CA
+2022,Flournoy,Tehama,0.0725,CA
+2022,Forbestown,Butte,0.0725,CA
+2022,Forest Glen,Trinity,0.0725,CA
+2022,Forest Ranch,Butte,0.0725,CA
+2022,Foresthill,Placer,0.0725,CA
+2022,Forks of Salmon,Siskiyou,0.0725,CA
+2022,Fort Bidwell,Modoc,0.0725,CA
+2022,Fort Jones,Siskiyou,0.0725,CA
+2022,Frazier Park,Kern,0.0725,CA
+2022,French Gulch,Shasta,0.0725,CA
+2022,Garden Valley,El Dorado,0.0725,CA
+2022,Gazelle,Siskiyou,0.0725,CA
+2022,Georgetown,El Dorado,0.0725,CA
+2022,Gerber,Tehama,0.0725,CA
+2022,Glenburn,Shasta,0.0725,CA
+2022,Glencoe,Calaveras,0.0725,CA
+2022,Glenhaven,Lake,0.0725,CA
+2022,Glenn,Glenn,0.0725,CA
+2022,Glennville,Kern,0.0725,CA
+2022,Gold Run,Placer,0.0725,CA
+2022,Golden Hills,Kern,0.0725,CA
+2022,Goodyears Bar,Sierra,0.0725,CA
+2022,Graeagle,Plumas,0.0725,CA
+2022,Granite Bay,Placer,0.0725,CA
+2022,Greenacres,Kern,0.0725,CA
+2022,Greenview,Siskiyou,0.0725,CA
+2022,Greenville,Plumas,0.0725,CA
+2022,Greenwood,El Dorado,0.0725,CA
+2022,Grenada,Siskiyou,0.0725,CA
+2022,Gridley,Butte,0.0725,CA
+2022,Grimes,Colusa,0.0725,CA
+2022,Grizzly Flats,El Dorado,0.0725,CA
+2022,Groveland,Tuolumne,0.0725,CA
+2022,Guinda,Yolo,0.0725,CA
+2022,Halcyon,San Luis Obispo,0.0725,CA
+2022,Hamilton City,Glenn,0.0725,CA
+2022,Hanford,Kings,0.0725,CA
+2022,Happy Camp,Siskiyou,0.0725,CA
+2022,Harmony,San Luis Obispo,0.0725,CA
+2022,Hat Creek,Shasta,0.0725,CA
+2022,Hathaway Pines,Calaveras,0.0725,CA
+2022,Hayfork,Trinity,0.0725,CA
+2022,Helena,Trinity,0.0725,CA
+2022,Herlong,Lassen,0.0725,CA
+2022,Hilt,Siskiyou,0.0725,CA
+2022,Hobergs,Lake,0.0725,CA
+2022,Homestead,Kern,0.0725,CA
+2022,Homewood,Placer,0.0725,CA
+2022,Hope Valley (Forest Camp),Alpine,0.0725,CA
+2022,Hornbrook,Siskiyou,0.0725,CA
+2022,Horse Creek,Siskiyou,0.0725,CA
+2022,Horse Lake,Lassen,0.0725,CA
+2022,Hyampom,Trinity,0.0725,CA
+2022,Igo,Shasta,0.0725,CA
+2022,Inyokern,Kern,0.0725,CA
+2022,Iowa Hill,Placer,0.0725,CA
+2022,Island Mountain,Trinity,0.0725,CA
+2022,Jamestown,Tuolumne,0.0725,CA
+2022,Janesville,Lassen,0.0725,CA
+2022,Johannesburg,Kern,0.0725,CA
+2022,Johnstonville,Lassen,0.0725,CA
+2022,Junction City,Trinity,0.0725,CA
+2022,June Lake,Mono,0.0725,CA
+2022,Juniper,Lassen,0.0725,CA
+2022,Keddie,Plumas,0.0725,CA
+2022,Keene,Kern,0.0725,CA
+2022,Kelsey,El Dorado,0.0725,CA
+2022,Kelseyville,Lake,0.0725,CA
+2022,Kernville,Kern,0.0725,CA
+2022,Keswick,Shasta,0.0725,CA
+2022,Kettleman City,Kings,0.0725,CA
+2022,Kings Beach,Placer,0.0725,CA
+2022,Kinyon,Siskiyou,0.0725,CA
+2022,Kirkwood,Alpine,0.0725,CA
+2022,Klamath River,Siskiyou,0.0725,CA
+2022,Knights Landing,Yolo,0.0725,CA
+2022,Kyburz,El Dorado,0.0725,CA
+2022,La Cresta Village,Kern,0.0725,CA
+2022,La Porte,Plumas,0.0725,CA
+2022,Lake Alpine,Alpine,0.0725,CA
+2022,Lake City,Modoc,0.0725,CA
+2022,Lake Isabella,Kern,0.0725,CA
+2022,Lake Mary,Mono,0.0725,CA
+2022,Lake Shastina,Siskiyou,0.0725,CA
+2022,Lake Sherwood,Ventura,0.0725,CA
+2022,Lakehead,Shasta,0.0725,CA
+2022,Lamont,Kern,0.0725,CA
+2022,Lebec,Kern,0.0725,CA
+2022,Lee Vining,Mono,0.0725,CA
+2022,Lemoore,Kings,0.0725,CA
+2022,Lewiston,Trinity,0.0725,CA
+2022,Likely,Modoc,0.0725,CA
+2022,Lincoln,Placer,0.0725,CA
+2022,Litchfield,Lassen,0.0725,CA
+2022,Little Norway,El Dorado,0.0725,CA
+2022,Little Valley,Lassen,0.0725,CA
+2022,Live Oak,Sutter,0.0725,CA
+2022,Loch Lomond,Lake,0.0725,CA
+2022,Long Barn,Tuolumne,0.0725,CA
+2022,Lookout,Modoc,0.0725,CA
+2022,Los Molinos,Tehama,0.0725,CA
+2022,Los Osos,San Luis Obispo,0.0725,CA
+2022,Los Padres,San Luis Obispo,0.0725,CA
+2022,Lost Hills,Kern,0.0725,CA
+2022,Lotus,El Dorado,0.0725,CA
+2022,Lower Lake,Lake,0.0725,CA
+2022,Loyalton,Sierra,0.0725,CA
+2022,Lucerne,Lake,0.0725,CA
+2022,Macdoel,Siskiyou,0.0725,CA
+2022,Mad River,Trinity,0.0725,CA
+2022,Madeline,Lassen,0.0725,CA
+2022,Madison,Yolo,0.0725,CA
+2022,Magalia,Butte,0.0725,CA
+2022,Manton,Tehama,0.0725,CA
+2022,Manzanita Lake,Shasta,0.0725,CA
+2022,Maricopa,Kern,0.0725,CA
+2022,Markleeville,Alpine,0.0725,CA
+2022,Mather,Tuolumne,0.0725,CA
+2022,Maxwell,Colusa,0.0725,CA
+2022,McArthur,Shasta,0.0725,CA
+2022,McCloud,Siskiyou,0.0725,CA
+2022,McFarland,Kern,0.0725,CA
+2022,McKittrick,Kern,0.0725,CA
+2022,Meadow Valley,Plumas,0.0725,CA
+2022,Meadow Vista,Placer,0.0725,CA
+2022,Meeks Bay,El Dorado,0.0725,CA
+2022,Meiners Oaks,Ventura,0.0725,CA
+2022,Meridian,Sutter,0.0725,CA
+2022,Mettler,Kern,0.0725,CA
+2022,Meyers,El Dorado,0.0725,CA
+2022,Mi-Wuk Village,Tuolumne,0.0725,CA
+2022,Middletown,Lake,0.0725,CA
+2022,Milford,Lassen,0.0725,CA
+2022,Mill Creek,Tehama,0.0725,CA
+2022,Millville,Shasta,0.0725,CA
+2022,Mineral,Tehama,0.0725,CA
+2022,Miracle Hot Springs,Kern,0.0725,CA
+2022,Moccasin,Tuolumne,0.0725,CA
+2022,Mojave,Kern,0.0725,CA
+2022,Mokelumne Hill,Calaveras,0.0725,CA
+2022,Mono Lake,Mono,0.0725,CA
+2022,Monolith,Kern,0.0725,CA
+2022,Montague,Siskiyou,0.0725,CA
+2022,Montgomery Creek,Shasta,0.0725,CA
+2022,Moorpark,Ventura,0.0725,CA
+2022,Morro Plaza,San Luis Obispo,0.0725,CA
+2022,Mount Hebron,Siskiyou,0.0725,CA
+2022,Mountain Mesa,Kern,0.0725,CA
+2022,Mountain Ranch,Calaveras,0.0725,CA
+2022,Mt. Aukum,El Dorado,0.0725,CA
+2022,Murphys,Calaveras,0.0725,CA
+2022,Nashville,El Dorado,0.0725,CA
+2022,Naval Air Station (Lemoore),Kings,0.0725,CA
+2022,Nelson,Butte,0.0725,CA
+2022,Newbury Park (Thousand Oaks),Ventura,0.0725,CA
+2022,Newcastle,Placer,0.0725,CA
+2022,Nice,Lake,0.0725,CA
+2022,Nicolaus,Sutter,0.0725,CA
+2022,Nipomo,San Luis Obispo,0.0725,CA
+2022,North Edwards,Kern,0.0725,CA
+2022,Nubieber,Lassen,0.0725,CA
+2022,Nyeland Acres,Ventura,0.0725,CA
+2022,O'Brien,Shasta,0.0725,CA
+2022,Oak Park,Ventura,0.0725,CA
+2022,Oak Run,Shasta,0.0725,CA
+2022,Oak View,Ventura,0.0725,CA
+2022,Oceano,San Luis Obispo,0.0725,CA
+2022,Oildale,Kern,0.0725,CA
+2022,Ojai,Ventura,0.0725,CA
+2022,Old Station,Shasta,0.0725,CA
+2022,Olinda,Shasta,0.0725,CA
+2022,Olympic Valley,Placer,0.0725,CA
+2022,Omo Ranch,El Dorado,0.0725,CA
+2022,Ono,Shasta,0.0725,CA
+2022,Onyx,Kern,0.0725,CA
+2022,Ordbend,Glenn,0.0725,CA
+2022,Pacific House,El Dorado,0.0725,CA
+2022,Palermo,Butte,0.0725,CA
+2022,Palo Cedro,Shasta,0.0725,CA
+2022,Paskenta,Tehama,0.0725,CA
+2022,Paynes Creek,Tehama,0.0725,CA
+2022,Peninsula Village,Plumas,0.0725,CA
+2022,Penryn,Placer,0.0725,CA
+2022,Pilot Hill,El Dorado,0.0725,CA
+2022,Pinecrest,Tuolumne,0.0725,CA
+2022,Piru,Ventura,0.0725,CA
+2022,Platina,Shasta,0.0725,CA
+2022,Pleasant Grove,Sutter,0.0725,CA
+2022,Point Mugu,Ventura,0.0725,CA
+2022,Pollock Pines,El Dorado,0.0725,CA
+2022,Pond,Kern,0.0725,CA
+2022,Pondosa,Siskiyou,0.0725,CA
+2022,Portola,Plumas,0.0725,CA
+2022,Princeton,Colusa,0.0725,CA
+2022,Proberta,Tehama,0.0725,CA
+2022,Project City,Shasta,0.0725,CA
+2022,Pulga,Butte,0.0725,CA
+2022,Pumpkin Center,Kern,0.0725,CA
+2022,Quincy,Plumas,0.0725,CA
+2022,Rail Road Flat,Calaveras,0.0725,CA
+2022,Randsburg,Kern,0.0725,CA
+2022,Ravendale,Lassen,0.0725,CA
+2022,Redding,Shasta,0.0725,CA
+2022,Rescue,El Dorado,0.0725,CA
+2022,Richardson Springs,Butte,0.0725,CA
+2022,Richfield,Tehama,0.0725,CA
+2022,Richvale,Butte,0.0725,CA
+2022,Rio Oso,Sutter,0.0725,CA
+2022,Robbins,Sutter,0.0725,CA
+2022,Rocklin,Placer,0.0725,CA
+2022,Rosamond,Kern,0.0725,CA
+2022,Round Mountain,Shasta,0.0725,CA
+2022,Rumsey,Yolo,0.0725,CA
+2022,Ruth,Trinity,0.0725,CA
+2022,Salyer,Trinity,0.0725,CA
+2022,San Andreas,Calaveras,0.0725,CA
+2022,San Miguel,San Luis Obispo,0.0725,CA
+2022,San Simeon,San Luis Obispo,0.0725,CA
+2022,Santa Margarita,San Luis Obispo,0.0725,CA
+2022,Santa Rosa Valley,Ventura,0.0725,CA
+2022,Saticoy,Ventura,0.0725,CA
+2022,Sattley,Sierra,0.0725,CA
+2022,Sawyers Bar,Siskiyou,0.0725,CA
+2022,Scott Bar,Siskiyou,0.0725,CA
+2022,Seiad Valley,Siskiyou,0.0725,CA
+2022,Shafter,Kern,0.0725,CA
+2022,Shandon,San Luis Obispo,0.0725,CA
+2022,Shasta,Shasta,0.0725,CA
+2022,Shasta Lake,Shasta,0.0725,CA
+2022,Sheepranch,Calaveras,0.0725,CA
+2022,Sheridan,Placer,0.0725,CA
+2022,Sherwin Plaza,Mono,0.0725,CA
+2022,Shingle Springs,El Dorado,0.0725,CA
+2022,Shingletown,Shasta,0.0725,CA
+2022,Sierra City,Sierra,0.0725,CA
+2022,Sierraville,Sierra,0.0725,CA
+2022,Simi Valley,Ventura,0.0725,CA
+2022,Sites,Colusa,0.0725,CA
+2022,Sloat,Plumas,0.0725,CA
+2022,Smithflat,El Dorado,0.0725,CA
+2022,Somerset,El Dorado,0.0725,CA
+2022,Somes Bar,Siskiyou,0.0725,CA
+2022,Somis,Ventura,0.0725,CA
+2022,Soulsbyville,Tuolumne,0.0725,CA
+2022,Spring Garden,Plumas,0.0725,CA
+2022,Standard,Tuolumne,0.0725,CA
+2022,Standish,Lassen,0.0725,CA
+2022,Stanislaus,Tuolumne,0.0725,CA
+2022,Stirling City,Butte,0.0725,CA
+2022,Stonyford,Colusa,0.0725,CA
+2022,Storrie,Plumas,0.0725,CA
+2022,Stratford,Kings,0.0725,CA
+2022,Strawberry,Tuolumne,0.0725,CA
+2022,Summit City,Shasta,0.0725,CA
+2022,Sunset Whitney Ranch,Placer,0.0725,CA
+2022,Susanville,Lassen,0.0725,CA
+2022,Sutter,Sutter,0.0725,CA
+2022,Taft,Kern,0.0725,CA
+2022,Tahoe City,Placer,0.0725,CA
+2022,Tahoe Paradise,El Dorado,0.0725,CA
+2022,Tahoe Valley,El Dorado,0.0725,CA
+2022,Tahoe Vista,Placer,0.0725,CA
+2022,Tahoma,Placer,0.0725,CA
+2022,Taylorsville,Plumas,0.0725,CA
+2022,Tehachapi,Kern,0.0725,CA
+2022,Tehama,Tehama,0.0725,CA
+2022,Templeton,San Luis Obispo,0.0725,CA
+2022,Termo,Lassen,0.0725,CA
+2022,Thousand Oaks,Ventura,0.0725,CA
+2022,Toms Place,Mono,0.0725,CA
+2022,Topaz,Mono,0.0725,CA
+2022,Trinity Center,Trinity,0.0725,CA
+2022,Trowbridge,Sutter,0.0725,CA
+2022,Tulelake,Siskiyou,0.0725,CA
+2022,Tuolumne,Tuolumne,0.0725,CA
+2022,Tupman,Kern,0.0725,CA
+2022,Twain,Plumas,0.0725,CA
+2022,Twain Harte,Tuolumne,0.0725,CA
+2022,Twin Bridges,El Dorado,0.0725,CA
+2022,Upper Lake/ Upper Lake Valley,Lake,0.0725,CA
+2022,Vallecito,Calaveras,0.0725,CA
+2022,Valley Springs,Calaveras,0.0725,CA
+2022,Vina,Tehama,0.0725,CA
+2022,Vinton,Plumas,0.0725,CA
+2022,Virgilia,Plumas,0.0725,CA
+2022,Vista Park,Kern,0.0725,CA
+2022,Wallace,Calaveras,0.0725,CA
+2022,Weaverville,Trinity,0.0725,CA
+2022,Weimar,Placer,0.0725,CA
+2022,Weldon,Kern,0.0725,CA
+2022,Wendel,Lassen,0.0725,CA
+2022,West Point,Calaveras,0.0725,CA
+2022,Westlake Village (Thousand Oaks),Ventura,0.0725,CA
+2022,Westwood,Lassen,0.0725,CA
+2022,Wheeler Ridge,Kern,0.0725,CA
+2022,Whiskeytown,Shasta,0.0725,CA
+2022,Whispering Pines,Lake,0.0725,CA
+2022,White Pines,Calaveras,0.0725,CA
+2022,Whitmore,Shasta,0.0725,CA
+2022,Wildwood,Shasta,0.0725,CA
+2022,Willow Ranch,Modoc,0.0725,CA
+2022,Willows,Glenn,0.0725,CA
+2022,Wilseyville,Calaveras,0.0725,CA
+2022,Winters,Yolo,0.0725,CA
+2022,Witter Springs,Lake,0.0725,CA
+2022,Wofford Heights,Kern,0.0725,CA
+2022,Woodfords,Alpine,0.0725,CA
+2022,Woody,Kern,0.0725,CA
+2022,Yankee Hill,Butte,0.0725,CA
+2022,Yolo,Yolo,0.0725,CA
+2022,Yuba City,Sutter,0.0725,CA
+2022,Zamora,Yolo,0.0725,CA
+2022,Zenia,Trinity,0.0725,CA
