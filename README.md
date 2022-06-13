@@ -12,13 +12,16 @@ https://www.cdtfa.ca.gov/taxes-and-fees/archive-rates.htm
 As shown on the above, 8 cities in Alameda county have the highest sales tax rate in 2022, which is 10.75%. 
 
 ![highest_sales_tax_2022](Resources/highest_sales_tax_2022.png)
+
 [Tableau Link](https://public.tableau.com/app/profile/ayoung.kim2278/viz/CitiesinCAthathavehighestsalestaxratein2022/HighestSalesTaxRate)
 
 - Cities that have the lowest sales tax rate in 2022
-![lowest_df](Resources/lowest_df.png)
-As shown on the above, there are 441 cities that have the lowest sales tax rate in 2022, which is 7.25%. 
-![lowest_sales_tax_2022](Resources/lowest_sales_tax_2022.png)
 
+![lowest_df](Resources/lowest_df.png)
+
+As shown on the above, there are 441 cities that have the lowest sales tax rate in 2022, which is 7.25%. 
+
+![lowest_sales_tax_2022](Resources/lowest_sales_tax_2022.png)
 
 [Tableau Link](https://public.tableau.com/app/profile/ayoung.kim2278/viz/CitiesinCAthathavelowestsalestaxratein2022/LowestSalesTaxRate)
 
